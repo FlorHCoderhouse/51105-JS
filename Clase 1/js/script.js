@@ -1,5 +1,3 @@
-<script defer src="./js/script.js"></script>
-
 //Sintaxis básica de Javascript
 //Esto es un comentario de una línea.  Atajo Ctrl+} (sirve para comentar y descomentar), o también Ctrl+K+C (comenta) y Ctrl+K+U (descomenta)
 
