@@ -119,3 +119,29 @@ window.onload = () => {
     }
 
 } 
+
+/* const selectCriterio = document.getElementById('selectCriteria'),
+    inputBusqueda = document.getElementById('inputSearch');
+
+function buscar(array, criterio, input) {
+    return array.filter((item) => item[criterio].includes(input))
+}
+
+inputBusqueda.addEventListener('input', () => {
+    criterio = selectCriterio.value;
+
+    if (criterio == 'Elegí un criterio de búsqueda') {
+        selectCriterio.style.border = 'red solid 2px';
+        inputBusqueda.value = ''
+    } else {
+        selectCriterio.style.border = '';
+        let cadena = (inputBusqueda.value).toUpperCase();
+        crearTarjetas(buscar(catalogo, criterio, cadena), contTarjetas);
+
+        //Acá puedo limpiar el input cada vez que me salgo
+        inputBusqueda.onblur = () => {
+            inputBusqueda.value = '';
+        }
+    }
+
+}) */
