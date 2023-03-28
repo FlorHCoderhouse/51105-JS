@@ -1,0 +1,23 @@
+body {
+    background-color: grey;
+}
+
+.foto {
+    display: none;
+    width: 500px;
+    height: 500px;
+    border: 25px solid white;
+    border-bottom: 70px solid white;
+    background-color: lightgoldenrodyellow;
+    background-image: url('https://img.freepik.com/foto-gratis/vista-angulo-alto-algunos-billetes-monedas-enrolladas-mas-billetes_181624-17842.jpg');
+}
+
+.visible {
+    display: block;
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
