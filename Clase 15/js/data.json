@@ -1,0 +1,26 @@
+[
+    {
+        "nombre":"Saxo",
+        "categoria":"viento",
+        "precio":820000,
+        "imagen":"./img/saxo.jpg"
+    },
+    {
+        "nombre":"Bajo",
+        "categoria":"cuerdas",
+        "precio":530000,
+        "imagen":"./img/bajo.jpg"
+    },
+    {
+        "nombre":"Guitarra",
+        "categoria":"cuerdas",
+        "precio":57000,
+        "imagen":"./img/guitarra.webp"
+    },
+    {
+        "nombre":"Batería",
+        "categoria":"percusión",
+        "precio":175000,
+        "imagen":"./img/bateria.png"
+    }
+]
